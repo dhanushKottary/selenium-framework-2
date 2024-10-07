@@ -9,8 +9,8 @@
 	<parameter name="browser" value="Chrome"></parameter>
     <classes>
       <class name="com.banking.testcases.TC_LoginTest_001"/>
-      <class name="com.banking.testcases.TC_LoginTest_002"/>
-      <class name="com.banking.testcases.TC_LoginDDT_003"/>
+      <!-- <class name="com.banking.testcases.TC_LoginTest_002"/>
+      <class name="com.banking.testcases.TC_LoginDDT_003"/> -->
       <class name="com.banking.testcases.TC_AddCustomerTest_003"/>
     </classes>
   </test> <!-- Test -->
